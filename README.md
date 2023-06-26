@@ -1,9 +1,15 @@
 Briefly summarize the DriverPass project. Who was the client? What type of system did they want you to design?
+The client for this project was a company named DriverPass. DriverPass seeks to address the need for more driver training because many people are failing their tests at the DMV. The client wanted a cloud based application capable of running on any web browser or mobile device. Once a user created a DriverPass account, the system included the option for users to take online tests, practice tests and on-the-road training. In order for users to be able to complete on-the-road training, a reservation system was necessary to match users with teachers, as well as to arrange a pick up time and location so that the training can be completed. The system also needed to stay up to date with current DMV policies and regulations.  Lastly, the owner Liam wanted to be able to download reports as needed to keep track and changes or errors that occured in the system.
+
 
 What did you do particularly well?
+I think that I did well with creating the business requirements document. I was able to pick out the essential information from the interview transcript and condense that into system components and design elements as well as requirements needed to create software that addressed the needs of the client and the end-user. My Gantt chart was organized well and it allowed me to spot overlapping tasks in order to address potential conflicts that could cause delays with the release of the system. 
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
+If I could choose on part of my work on these documents to make changes to I would pick
 
 How did you interpret the user’s needs and implement them into your system design? Why is it so important to consider the user’s needs when designing?
+I used the DriverPass interview transcript as my primary way of interpreting the user's needs and incorporating them into the system design. The interview described key elements of functionality that were needed so that users would benefit by becoming better and more knowledgable drivers which in turn would allow them to become licensed drivers. It is important to consider the user's needs when designing because the user experience is what allows the user base to increase which in turn translates to business benefits. Meeting the needs of the user also makes an improvement in some form to their daily lives. 
 
 How do you approach designing software? What techniques or strategies would you use in the future to analyze and design a system?
+I approach designing software with a user-centered perspective. I think that it is important for the software to be user-friendly and also address the needs of the end-user so that they have a great experience. I would use this stragety going foward in my future designs. I would also incorporate a focus on use cases because it is important to understand how the user or other actors will interact with the system.
